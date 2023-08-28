@@ -17,3 +17,9 @@ This data is obtained from Kaggle which gives the Sales Data of Rossmann Health 
   * The data gives the Sales based on various conditions and holidays.
   * The Visualization helps us to identify the Sales on different days based on given conditions.
   * The final report gives Average Sales Trend per Quarter and Month, Store Revenue Year-wise, Customers Visit during Promotion, State Holiday, School Holiday & Working days and Sales Revenue per Quarter, Month and Day of the week.
+## [Sales Performance Analysis](Sales%20Performance%20Analysis)
+This is the Sales Data by Every Sales Person in different Region.
+  * This analysis provides the performance of each Sales person for different regions.
+  * The data is gathered with respect to their personal performances and recorded.
+  * The visualization helps to identify the high performer and low performer.
+  * The report explains the sales based on country and region, Revenue by sales person and no. of units sold by each person with respect to region, sales, order and return by product category, Percentage of Returned order.
