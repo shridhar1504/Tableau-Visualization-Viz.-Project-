@@ -5,3 +5,4 @@ This dataset has the  historical earthquake data of magnitude above 6 from the y
   * This analysis using historical data on earthquakes would enable us to develop insurance products suitable for customers living in these active regions.
   * The visualization is used to gain insights on major earthquake and determine their hotspots in each continent.
   * The dashboard shows all the major insights and ideas to develop the strategies for gaining benefits in any insurance business firm.
+## [Exploratory Data Analysis of H1B Visa(Foreign Workers)](Exploratory%20Data%20Analysis%20of%20H1B%20Visa%20(Foreign%20Workers))
