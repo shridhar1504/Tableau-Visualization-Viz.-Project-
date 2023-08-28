@@ -10,3 +10,4 @@ This dataset contains the USA Foreign Worker's Salary Dataset with their Visa Ty
   * This analysis provides the professional category who gets highly paid.
   * The data has been provided by US Govt. so its more reliable than third party data acqusition teams.
   * This also helps to get a better overview of the H1B Visa applicants about their current salary and the job function with the provided data.
+  * The report gives Salary trend, Median & Average wages , Visa Category and Visa Class based on Job title.
