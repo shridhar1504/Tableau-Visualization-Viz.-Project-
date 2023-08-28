@@ -11,3 +11,9 @@ This dataset contains the USA Foreign Worker's Salary Dataset with their Visa Ty
   * The data has been provided by US Govt. so its more reliable than third party data acqusition teams.
   * This also helps to get a better overview of the H1B Visa applicants about their current salary and the job function with the provided data.
   * The report gives Salary trend, Median & Average wages , Visa Category and Visa Class based on Job title.
+## [Rossmann Stores Revenue Data Visualization](Rossmann%20Stores%20Revenue%20Data%20Visualization)
+This data is obtained from Kaggle which gives the Sales Data of Rossmann Health Chain Stores.
+  * This analysis provides the insights which helps to boost the Sales and Earning high profits.
+  * The data gives the Sales based on various conditions and holidays.
+  * The Visualization helps us to identify the Sales on different days based on given conditions.
+  * The final report gives Average Sales Trend per Quarter and Month, Store Revenue Year-wise, Customers Visit during Promotion, State Holiday, School Holiday & Working days and Sales Revenue per Quarter, Month and Day of the week.
