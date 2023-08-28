@@ -10,5 +10,6 @@
   * With tree map the country with highest occurence of earthquakes can be identified with Year and magnitude as filters. (WorkBook - 4)
   * By using the tree map the 6 countries with high number of mega earthquakes(i.e., Greater than 7 on Richter scale are identfied as mega earthquakes) and with bar chart the 6 countries is visualized to show no. of times earthquakes occured. (WorkBook - 5)
   * The bubble chart is used to show the countries with high no. of earthquakes. (WorkBook - 6)
-![image](https://github.com/shridhar1504/Tableau-Visualization-Viz.-Project-/assets/113985416/02bfd520-6b11-48ab-bb02-d6615d3b8e24)
+ ## Dashboard:
  
+![image](https://github.com/shridhar1504/Tableau-Visualization-Viz.-Project-/assets/113985416/02bfd520-6b11-48ab-bb02-d6615d3b8e24)
