@@ -22,4 +22,4 @@
 
 ### Return Report by Sales Dashboard:
 
-![image](https://github.com/shridhar1504/Tableau-Visualization-Viz.-Project-/assets/113985416/418e7d14-fcc1-4171-a451-127f802072ab)
+![image](https://github.com/shridhar1504/Tableau-Visualization-Viz.-Project-/assets/113985416/82ba0e44-7cdd-4ab5-b901-cbcf2b5aa2b5)
